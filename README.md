@@ -1,9 +1,17 @@
 # 💫 About Me:
-About Me<br><br>Hello there! 👋 I'm Gaurav , a passionate web developer with a keen interest in building impactful projects. Currently, I am actively working on exciting projects:<br><br>
-1. **Sea Guardian**<br>   - To save the  Ocean from Pollution <br>   - Selected for GDSC Bootcamp in Google Solution Challenges 2k24<br><br>
-2. ** PawsVeda** <br> - An  Interactive E-commerce Platefrom that consist of useful stuff related to Pet-Care and other essential stuffs like food for them and Sheleter like Home for then as well.<br><br>
-3.**Cabinix**<br>   - Mini Project - A Cab Booking Website<br>  <br>Apart from my ongoing projects, I'm dedicated to expanding my skills in the following areas:<br><br>- **Data Structures and Algorithms (DSA):**<br>  <br>- **MERN Stack:**<br> <br><br>Feel free to explore my repositories to see the code in action and follow my journey as I delve into the world of web  development. If you have any questions, suggestions, or collaboration opportunities, don't hesitate to reach out. Let's connect and build something amazing together! 🚀<br><br>
 
+Hello there! 👋 I'm Gaurav, a passionate web developer with a keen interest in building impactful projects. Currently, I am actively working on exciting projects:
+
+1. **Sea Guardian**<br>   - To save the Ocean from Pollution <br>   - Selected for GDSC Bootcamp in Google Solution Challenges 2024<br><br>
+2. **PawsVeda** <br>   - An Interactive E-commerce Platform that consists of useful stuff related to Pet-Care and other essential items like food for them and shelter like homes for them as well.<br><br>
+3. **Cabinix**<br>   - Mini Project - A Cab Booking Website<br>  
+
+Apart from my ongoing projects, I'm dedicated to expanding my skills in the following areas:
+
+- **Data Structures and Algorithms (DSA):**<br>  
+- **MERN Stack:**<br> 
+
+Feel free to explore my repositories to see the code in action and follow my journey as I delve into the world of web development. If you have any questions, suggestions, or collaboration opportunities, don't hesitate to reach out. Let's connect and build something amazing together! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravsingh096) 
@@ -22,7 +30,6 @@ About Me<br><br>Hello there! 👋 I'm Gaurav , a passionate web developer with a
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gauravsingh096&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
