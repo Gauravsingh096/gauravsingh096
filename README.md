@@ -4,9 +4,9 @@ Hello there! 👋 I'm Gaurav, a passionate web developer with a keen interest in
 
 1. **Sea Guardian**<br>   - To save the Ocean from Pollution <br>   - Selected for GDSC Bootcamp in Google Solution Challenges 2024<br><br>
 2. **PawsVeda** <br>   - An Interactive E-commerce Platform that consists of useful stuff related to Pet-Care and other essential items like food for them and shelter like homes for them as well.<br><br>
-3. **Cabinix**<br>   - Mini Project - A Cab Booking Website<br>
-4. **Livestream webapp<br>  - A Livestream webapp with overlay --  Developed a video streaming web application and enabling real-time video streaming with RTSP support and robust
- overlay management features, including CRUD operations for overlays<br>
+3. **Cabinix**<br>   - Mini Project - A Cab Booking Website<br><br>
+4. **Livestream webapp** <br>  - A Livestream webapp with overlay --  Developed a video streaming web application and enabling real-time video streaming with RTSP support and robust
+ overlay management features, including CRUD operations for overlays<br><br>
 
 Apart from my ongoing projects, I'm dedicated to expanding my skills in the following areas:
 
