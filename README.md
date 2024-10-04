@@ -11,7 +11,8 @@ Hello there! 👋 I'm Gaurav, a passionate web developer with a keen interest in
 Apart from my ongoing projects, I'm dedicated to expanding my skills in the following areas:
 
 - **Data Structures and Algorithms (DSA):**<br>  
-- **MERN Stack:**<br> 
+- **MERN Stack:**<br>
+- **AWS Cloud Computing **<br>
 
 Feel free to explore my repositories to see the code in action and follow my journey as I delve into the world of web development. If you have any questions, suggestions, or collaboration opportunities, don't hesitate to reach out. Let's connect and build something amazing together! 🚀
 
