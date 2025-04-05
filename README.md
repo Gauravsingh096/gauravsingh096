@@ -76,12 +76,10 @@
 </div>
 
 ---
-
 ## 🐍 Contribution Snake
 
-![github contribution grid snake animation](https://github.com/gauravsingh096/gauravsingh096/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/gauravsingh096/gauravsingh096/output/github-contribution-grid-snake.svg)
 
----
 
 ## 🔗 Connect with Me
 
