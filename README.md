@@ -73,7 +73,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gauravsingh096&theme=onedark&column=7&margin-w=10&margin-h=15"/>
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravsingh096&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🔥 My Contribution Activity
+
+[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravsingh096&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
