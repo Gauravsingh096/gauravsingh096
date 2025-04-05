@@ -78,6 +78,10 @@
 [![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravsingh096&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsingh096&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
