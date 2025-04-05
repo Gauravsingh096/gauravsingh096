@@ -73,12 +73,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gauravsingh096&theme=onedark&column=7&margin-w=10&margin-h=15"/>
 </a>
 
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravsingh096&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-## 🐍 Contribution Snake
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/gauravsingh096/gauravsingh096/output/github-contribution-grid-snake.svg)
 
 
 ## 🔗 Connect with Me
