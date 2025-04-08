@@ -87,7 +87,7 @@
 
 ## 🔗 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5733?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://gauravsingh-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k22.cse.2213452@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5733?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio-new-sepia-omega.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravsinghwork096@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Gauravsingh096)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravsingh096)
