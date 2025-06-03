@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
+<h1 align="center">Hi👋, I'm Gaurav Singh </h1>
 <h3 align="center">A Passionate Full-Stack Developer | DevOps Explorer | Cloud Enthusiast</h3>
 
 <p align="center">
